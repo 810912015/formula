@@ -1,0 +1,69 @@
+.root .ui-btn{
+  display: inline-block;
+  padding: 5px 10px;
+  font-size: 12px;
+  font-weight: 400;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  touch-action: manipulation;
+  cursor: pointer;
+  border: 1px solid #ccc;
+  background-color: #fff;
+  user-select: none;
+  -webkit-user-select: none;
+  margin-left: -4px;height:28px;
+}
+.root .ui-select,.ui-input{
+  padding: 5px 10px;
+  font-size: 12px;
+  font-weight: 400;
+  border: 1px solid #ccc;
+  margin-left: -4px;
+  border-left: 0px;height:28px;
+  vertical-align: middle;
+}
+.root .ui-dt{
+  display: inline;
+  padding: 5px 10px;
+  font-size: 12px;
+  font-weight: 400;
+  border: 1px solid #ccc;
+  margin-left: -4px;
+  border-left: 0px;
+  height:16px;
+  vertical-align: middle;
+}
+.root .ui-btn:hover{background-color: #ccc;}
+.root .ui-item{margin-bottom: 0px;}
+.root .ui-sky{
+  background-color: #448bc8;
+  color:#fff;
+  border:1px solid #337ab7;
+}
+.root .ui-sky:hover{background-color: #2e6da4;}
+.root .msg{color:#5cb85c;}
+.root .err{color:#c9302c;}
+.root .ui-add{
+  margin-left: 20px;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+  background-color:#5cb85c;
+  color:#fff;
+  border:1px solid #4cae4c;
+  font-size: 12px;
+}
+.root .ui-add:hover{
+  background-color: #4cae4c;
+}
+.root .ui-del{
+  margin-left: -4px;
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 0px;
+  background-color:#d43f3a;
+  color:#fff;
+  border:1px solid #c9302c;
+  font-size: 12px;
+}
+.root .ui-del:hover{background-color: #c9302c}
+
