@@ -6,10 +6,7 @@ then the result is 2018-07-01 01:40.
 
 Created by 'create-react-app'.
 
-image:: https://github.com/810912015/formula/blob/master/screenshot.png
-:height: 100px
-  :width: 200 px
-  :scale: 50 %
+There is a screen shot image.
 
 How to run:
 
